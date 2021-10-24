@@ -32,11 +32,11 @@
 
 ### Boeing 787-10 Livery
 - لنک | Link: https://flightsim.to/file/22120/b787-10-dreamliner-pia-livery
-- تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/E175-Sindh
+- تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/B787-2
 
 ### FlyByWire Simulations A32NX Kashmir Livery
 - لنک | Link: https://flightsim.to/file/22023/a32nx-pia-livery-kashmir
-- تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/E175-Sindh
+- تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/A32NX-3
 
 ### Airbus A330-900 Lahore Livery
 - لنک | Link: https://flightsim.to/file/21725/a330-900-pakistan-international-airlines-pia-livery-lahore
@@ -108,3 +108,24 @@
 - لنک | Link: https://flightsim.to/file/17207/a330-300-pia-concept-livery
 - تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/E175-Sindh
 
+### Freeware
+1. Mazar-e-Quaid: https://flightsim.to/file/16199/mazar-e-quaid-add-on-karachi (24.8746° N, 67.0398° E)
+1. Minar-e-Pakistan: https://flightsim.to/file/20025/minar-e-pakistan
+1. Jinnah Intl. Airport, Karachi: https://flightsim.to/file/19761/opkc-jinnah-intl-airport-karachi-improvement
+1. Islamabad Intl. Airport, Islamabad: https://flightsim.to/file/19658/opis-islamabad-intl-airport-pakistan
+1. Gilgit Airport: https://flightsim.to/file/13593/gilgit-airport-opgt
+1. PIA Livery: https://flightsim.to/file/16193/pakistan-international-airlines-a320-neo 
+1. PIA Livery: https://flightsim.to/file/8787/pakistan-international-airlines-b747-8i 
+1. PIA Livery: https://flightsim.to/file/6013/pakistan-international-airlines-b787-10-pia-ap-bid 
+1. PIA Livery: https://flightsim.to/file/14838/cs-777-200-pakistan-international-airlines-8k 
+1. PIA Livery: https://flightsim.to/file/9355/a330-300-pia-concept-markhor
+1. PIA Livery: https://flightsim.to/file/9333/a330-300-pia-premier
+1. PIA Livery: https://flightsim.to/file/5629/pakistan-international-airlines-retro-1960-livery-4k 
+1. PIA Livery: https://flightsim.to/file/14095/fbw-converted-pakistan-international-airlines-retro-1960-livery-4k
+1. AirBlue Livery: https://flightsim.to/file/14098/fbw-converted-a320-airblue-4k
+1. AirSial Livery: https://flightsim.to/file/12901/fbw-a32nx-air-sial-livery-8k 
+
+### Payware
+1. Islamabad Airport: https://secure.simmarket.com/simarc-islamabad-international-airport-opis-msfs.phtml
+1. Faisalabad Airport: https://secure.simmarket.com/simarc-faisalabad-international-airport-opfa-msfs.phtml
+1. Gwadar Airport: https://secure.simmarket.com/msk-productions-gwadar-international-airport-opgd-msfs.phtml
