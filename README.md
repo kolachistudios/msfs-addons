@@ -5,6 +5,26 @@
 ![MSFS Add-ons](https://github.com/kolachistudios/msfs-addons/blob/main/images/msfs-bg.jpg?raw=true)
 
 [Embraer 175 Livery](#embraer-175-livery)
+[Boeing 787-10 Livery](#boeing-787-10-livery)
+[FlyByWire Simulations A32NX Kashmir Livery](#flybywire-simulations-a32nx-kashmir-livery)
+[Airbus A330-900 Lahore Livery](#)
+[Boeing 737 MAX Thar Desert Livery](#)
+[TBM 930 Livery](#)
+[SDK Manual](#)
+[ATR72-600 Livery](#)
+[FlyByWire Simulations A32NX Livery](#)
+[Bombardier CRJ-550](#)
+[Airbus H135](#)
+[Bombardier CRJ-700](#)
+[Boeing 777-300ER Livery](#)
+[Boeing B747-8 Livery](#)
+[Boeing B787-10 Livery (Compatible with SU5)](#)
+[Boeing B737-MAX Livery](#)
+[FlyByWire Simulations A32NX Livery](#)
+[Sukhoi Superjet SSJ-100 Livery](#)
+[Boeing B787-10 Livery](#)
+[Pakistan International Airlines (PIA) Announcements](#)
+[Airbus A330-300 Livery](#)
 
 ### Embraer 175 Livery
 - لنک | Link: https://flightsim.to/file/22294/embraer-175-pia-livery-sindh
@@ -31,8 +51,7 @@
 - تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/E175-Sindh
 
 ### SDK Manual
-[WIP] https://github.com/kolachistudios/msfs-sdk-manual
-- تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/E175-Sindh
+- لنک | Link: https://github.com/kolachistudios/msfs-sdk-manual
 
 ### ATR72-600 Livery
 - لنک | Link: https://flightsim.to/file/20309/atr72-600-pia-concept-livery
@@ -84,7 +103,6 @@
 
 ### Pakistan International Airlines (PIA) Announcements
 - لنک | Link: https://flightsim.to/file/17383/urdu-and-english-pia-announcements
-- تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/E175-Sindh
 
 ### Airbus A330-300 Livery
 - لنک | Link: https://flightsim.to/file/17207/a330-300-pia-concept-livery
