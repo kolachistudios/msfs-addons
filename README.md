@@ -28,8 +28,8 @@
 1. [Airbus A330-300 Livery](#airbus-a330-300-livery)
 
 ### F2H Banshee Pakistan Air Force (PAF) Livery
-- لنک | Link: https://flightsim.to/file/22453/f2h-banshee-paf-livery (منسوخ شدہ | Declined)
-- ڈاؤنلوڈ | Download: https://github.com/kolachistudios/msfs-addons/blob/main/uploads/file/Kolachi_Banshee-Pakistan.zip
+- لنک | Link: https://flightsim.to/file/22453/f2h-banshee-paf-livery
+- تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/Banshee
 
 ### Embraer 175 Livery
 - لنک | Link: https://flightsim.to/file/22294/embraer-175-pia-livery-sindh
