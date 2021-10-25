@@ -4,7 +4,7 @@
 
 ![MSFS Add-ons](https://github.com/kolachistudios/msfs-addons/blob/main/images/Kolachi.png?raw=true)
 
-1. [F2H Banshee Livery](f2h-banshee-pakistan-air-force-paf-livery)
+1. [F2H Banshee Livery](#f2h-banshee-pakistan-air-force-paf-livery)
 1. [Embraer 175 Livery](#embraer-175-livery)
 1. [Boeing 787-10 Livery](#boeing-787-10-livery)
 1. [FlyByWire Simulations A32NX Kashmir Livery](#flybywire-simulations-a32nx-kashmir-livery)
