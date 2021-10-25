@@ -2,7 +2,7 @@
 # Add-ons for Microsoft Flight Simulator 2020
 ### pkstn.co/msfs
 
-![MSFS Add-ons](https://github.com/kolachistudios/msfs-addons/blob/main/images/msfs-bg.jpg?raw=true)
+![MSFS Add-ons](https://github.com/kolachistudios/msfs-addons/blob/main/images/Kolachi.png?raw=true)
 
 1. [Embraer 175 Livery](#embraer-175-livery)
 1. [Boeing 787-10 Livery](#boeing-787-10-livery)
