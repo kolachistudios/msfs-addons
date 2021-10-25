@@ -26,6 +26,10 @@
 1. [Pakistan International Airlines (PIA) Announcements](#pakistan-international-airlines-pia-announcements)
 1. [Airbus A330-300 Livery](#airbus-a330-300-livery)
 
+### F2H Banshee Pakistan Air Force (PAF) Livery
+- لنک | Link: https://flightsim.to/file/22453/f2h-banshee-paf-livery (منسوخ شدہ | Declined)
+- ڈاؤنلوڈ | Download: https://github.com/kolachistudios/msfs-addons/blob/main/uploads/file/Kolachi_Banshee-Pakistan.zip
+
 ### Embraer 175 Livery
 - لنک | Link: https://flightsim.to/file/22294/embraer-175-pia-livery-sindh
 - تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/E175-Sindh
@@ -102,7 +106,8 @@
 - تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/B787
 
 ### Pakistan International Airlines (PIA) Announcements
-- لنک | Link: https://flightsim.to/file/17383/urdu-and-english-pia-announcements
+- لنک | Link: https://flightsim.to/file/17383/urdu-and-english-pia-announcements (حذف شدہ | Deleted)
+- ڈاؤنلوڈ | Download: https://github.com/kolachistudios/msfs-addons/blob/main/uploads/file/PIA-Announcements.zip
 
 ### Airbus A330-300 Livery
 - لنک | Link: https://flightsim.to/file/17207/a330-300-pia-concept-livery
