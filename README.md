@@ -4,28 +4,38 @@
 
 ![MSFS Add-ons](https://github.com/kolachistudios/msfs-addons/blob/main/images/Kolachi.png?raw=true)
 
-1. [F2H Banshee Livery](#f2h-banshee-pakistan-air-force-paf-livery)
-1. [Embraer 175 Livery](#embraer-175-livery)
-1. [Boeing 787-10 Livery](#boeing-787-10-livery)
-1. [FlyByWire Simulations A32NX Kashmir Livery](#flybywire-simulations-a32nx-kashmir-livery)
-1. [Airbus A330-900 Lahore Livery](#airbus-a330-900-lahore-livery)
-1. [Boeing 737 MAX Thar Desert Livery](#boeing-737-max-thar-desert-livery)
-1. [TBM 930 Livery](#tbm-930-livery)
-1. [SDK Manual](#sdk-manual)
-1. [ATR72-600 Livery](#atr72-600-livery)
-1. [FlyByWire Simulations A32NX Livery](#flybywire-simulations-a32nx-livery)
-1. [Bombardier CRJ-550](#bombardier-crj-550)
-1. [Airbus H135](#airbus-h135)
-1. [Bombardier CRJ-700](#bombardier-crj-700)
-1. [Boeing 777-300ER Livery](#boeing-777-300er-livery)
-1. [Boeing B747-8 Livery](#boeing-b747-8-livery)
-1. [Boeing B787-10 Livery (Compatible with SU5)](#boeing-b787-10-livery-compatible-with-su5)
-1. [Boeing B737-MAX Livery](#boeing-b737-max-livery)
-1. [FlyByWire Simulations A32NX Livery](#flybywire-simulations-a32nx-livery)
-1. [Sukhoi Superjet SSJ-100 Livery](#sukhoi-superjet-ssj-100-livery)
-1. [Boeing B787-10 Livery](#boeing-b787-10-livery)
-1. [Pakistan International Airlines (PIA) Announcements](#pakistan-international-airlines-pia-announcements)
-1. [Airbus A330-300 Livery](#airbus-a330-300-livery)
+1. [Bombardier CRJ-1000 Livery](bombardier-crj-1000-livery)
+1. [Airbus A330-900 Livery](#airbus-a330-900-livery)
+3. [F2H Banshee Livery](#f2h-banshee-pakistan-air-force-paf-livery)
+4. [Embraer 175 Livery](#embraer-175-livery)
+5. [Boeing 787-10 Livery](#boeing-787-10-livery)
+6. [FlyByWire Simulations A32NX Kashmir Livery](#flybywire-simulations-a32nx-kashmir-livery)
+7. [Airbus A330-900 Lahore Livery](#airbus-a330-900-lahore-livery)
+8. [Boeing 737 MAX Thar Desert Livery](#boeing-737-max-thar-desert-livery)
+9. [TBM 930 Livery](#tbm-930-livery)
+10. [SDK Manual](#sdk-manual)
+11. [ATR72-600 Livery](#atr72-600-livery)
+12. [FlyByWire Simulations A32NX Livery](#flybywire-simulations-a32nx-livery)
+13. [Bombardier CRJ-550](#bombardier-crj-550)
+14. [Airbus H135](#airbus-h135)
+15. [Bombardier CRJ-700](#bombardier-crj-700)
+16. [Boeing 777-300ER Livery](#boeing-777-300er-livery)
+17. [Boeing B747-8 Livery](#boeing-b747-8-livery)
+18. [Boeing B787-10 Livery (Compatible with SU5)](#boeing-b787-10-livery-compatible-with-su5)
+19. [Boeing B737-MAX Livery](#boeing-b737-max-livery)
+20. [FlyByWire Simulations A32NX Livery](#flybywire-simulations-a32nx-livery)
+21. [Sukhoi Superjet SSJ-100 Livery](#sukhoi-superjet-ssj-100-livery)
+22. [Boeing B787-10 Livery](#boeing-b787-10-livery)
+23. [Pakistan International Airlines (PIA) Announcements](#pakistan-international-airlines-pia-announcements)
+24. [Airbus A330-300 Livery](#airbus-a330-300-livery)
+
+### Bombardier CRJ-1000 Livery
+- لنک | Link: https://flightsim.to/file/23502/crj-1000-pia-livery
+- تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/CRJ1000
+
+### Airbus A330-300 Livery
+- لنک | Link: https://flightsim.to/file/23352/a330-900-pia-livery
+- تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/A330-900-2
 
 ### F2H Banshee Pakistan Air Force (PAF) Livery
 - لنک | Link: https://flightsim.to/file/22453/f2h-banshee-paf-livery
