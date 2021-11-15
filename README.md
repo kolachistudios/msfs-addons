@@ -5,7 +5,7 @@
 ![MSFS Add-ons](https://github.com/kolachistudios/msfs-addons/blob/main/images/Kolachi.png?raw=true)
 
 1. [Bombardier CRJ-1000 Livery](#bombardier-crj-1000-livery)
-1. [Airbus A330-900 Livery](#airbus-a330-900-livery)
+1. [Airbus A330-900 Livery](#airbus-a330-300-livery)
 1. [F2H Banshee Livery](#f2h-banshee-pakistan-air-force-paf-livery)
 1. [Embraer 175 Livery](#embraer-175-livery)
 1. [Boeing 787-10 Livery](#boeing-787-10-livery)
