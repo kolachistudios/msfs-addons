@@ -31,7 +31,7 @@
 1. [Airbus A330-300 Livery](#airbus-a330-300-livery)
 
 ### Sim Skunk Works TF104G Starfighter Livery
-Link (لنک): https://flightsim.to/file/23890/f-104-paf-livery <br />
+Link (لنک): https://flightsim.to/file/23890/f-104-paf-livery
 Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/TF104G
 
 ### Bombardier CRJ-1000 Livery
