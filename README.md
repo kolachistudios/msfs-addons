@@ -98,7 +98,7 @@ Link (لنک): https://flightsim.to/file/19572/b777-300-pia-concept-livery <br /
 Screenshots (تصاویر):  
 
 ### Boeing B747-8 Livery
-لنک | Link: https://flightsim.to/file/19066/b747-8-pia-concept-livery <br />
+Link (لنک): https://flightsim.to/file/19066/b747-8-pia-concept-livery <br />
 Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/B747
 
 ### Boeing B787-10 Livery (Compatible with SU5)
