@@ -40,31 +40,31 @@ Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/m
 
 ### Airbus A330-300 Livery
 Link (لنک): https://flightsim.to/file/23352/a330-900-pia-livery <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/A330-900-2
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/A330-900-2
 
 ### F2H Banshee Pakistan Air Force (PAF) Livery
 Link (لنک): https://flightsim.to/file/22453/f2h-banshee-paf-livery <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/Banshee
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/Banshee
 
 ### Embraer 175 Livery
 Link (لنک): https://flightsim.to/file/22294/embraer-175-pia-livery-sindh <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/E175-Sindh
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/E175-Sindh
 
 ### Boeing 787-10 Livery
 Link (لنک): https://flightsim.to/file/22120/b787-10-dreamliner-pia-livery <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/B787-2
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/B787-2
 
 ### FlyByWire Simulations A32NX Kashmir Livery
 Link (لنک): https://flightsim.to/file/22023/a32nx-pia-livery-kashmir <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/A32NX-3
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/A32NX-3
 
 ### Airbus A330-900 Lahore Livery
 Link (لنک): https://flightsim.to/file/21725/a330-900-pakistan-international-airlines-pia-livery-lahore <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/A330-900
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/A330-900
 
 ### Boeing 737 MAX Thar Desert Livery
 Link (لنک): https://flightsim.to/file/21319/b737-max-pia-livery-thar-desert <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/B737-2
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/B737-2
 
 ### TBM 930 Livery
 Link (لنک): https://flightsim.to/file/21211/tbm-930-pia-concept-livery <br />
@@ -75,59 +75,59 @@ Link (لنک): https://github.com/kolachistudios/msfs-sdk-manual <br />
 
 ### ATR72-600 Livery
 Link (لنک): https://flightsim.to/file/20309/atr72-600-pia-concept-livery <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/ATR72-600
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/ATR72-600
 
 ### FlyByWire Simulations A32NX Livery
 Link (لنک): https://flightsim.to/file/20157/fbw-a32nx-pia-livery <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/A32NX-2
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/A32NX-2
 
 ### Bombardier CRJ-550
 Link (لنک): https://flightsim.to/file/20113/crj-550-pia-concept-livery <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/CRJ550
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/CRJ550
 
 ### Airbus H135
 Link (لنک): https://flightsim.to/file/20017/h135-edhi-air-ambulance <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/H135
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/H135
 
 ### Bombardier CRJ-700
 Link (لنک): https://flightsim.to/file/19817/crj-700-pia-concept-livery <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/CRJ700
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/CRJ700
 
 ### Boeing 777-300ER Livery
 Link (لنک): https://flightsim.to/file/19572/b777-300-pia-concept-livery <br />
-تصاویر | Screenshots: 
+Screenshots (تصاویر):  
 
 ### Boeing B747-8 Livery
 لنک | Link: https://flightsim.to/file/19066/b747-8-pia-concept-livery <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/B747
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/B747
 
 ### Boeing B787-10 Livery (Compatible with SU5)
 Link (لنک): https://flightsim.to/file/17653/b787-10-dreamliner-pia-concept-livery <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/B787
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/B787
 
 ### Boeing B737-MAX Livery
 Link (لنک): https://flightsim.to/file/18764/b737-max-pia-concept-livery <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/B737
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/B737
 
 ### FlyByWire Simulations A32NX Livery
 Link (لنک): https://flightsim.to/file/18569/fbw-a32nx-pia-concept-livery <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/E175-Sindh
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/E175-Sindh
 
 ### Sukhoi Superjet SSJ-100 Livery
 Link (لنک): https://flightsim.to/file/18314/sukhoi-ssj-100-aeroasia-livery <br />
-تصاویر | Screenshots: 
+تصاویرScreenshots (تصاویر):  
 
 ### Boeing B787-10 Livery
 Link (لنک): https://flightsim.to/file/17653/b787-10-dreamliner-pia-concept-livery <br />
-تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/B787
+Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/main/images/B787
 
 ### Pakistan International Airlines (PIA) Announcements
 Link (لنک): https://flightsim.to/file/17383/urdu-and-english-pia-announcements (حذف شدہ | Deleted) <br />
-ڈاؤنلوڈ | Download: https://github.com/kolachistudios/msfs-addons/blob/main/uploads/file/PIA-Announcements.zip
+Download (ڈاؤنلوڈ): https://github.com/kolachistudios/msfs-addons/blob/main/uploads/file/PIA-Announcements.zip
 
 ### Airbus A330-300 Livery
 Link (لنک): https://flightsim.to/file/17207/a330-300-pia-concept-livery <br />
-تصاویر | Screenshots:
+Screenshots (تصاویر): 
 
 ### Freeware
 1. Mazar-e-Quaid: https://flightsim.to/file/16199/mazar-e-quaid-add-on-karachi (24.8746° N, 67.0398° E)
