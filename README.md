@@ -115,7 +115,7 @@ Screenshots (تصاویر): https://github.com/kolachistudios/msfs-addons/tree/m
 
 ### Sukhoi Superjet SSJ-100 Livery
 Link (لنک): https://flightsim.to/file/18314/sukhoi-ssj-100-aeroasia-livery <br />
-تصاویرScreenshots (تصاویر):  
+Screenshots (تصاویر):  
 
 ### Boeing B787-10 Livery
 Link (لنک): https://flightsim.to/file/17653/b787-10-dreamliner-pia-concept-livery <br />
