@@ -4,6 +4,7 @@
 
 ![MSFS Add-ons](https://github.com/kolachistudios/msfs-addons/blob/main/images/Kolachi.png?raw=true)
 
+1. [Sim Skunk Works TF104G Starfighter Livery](sim-skunk-works-tf104g-starfighter-livery)
 1. [Bombardier CRJ-1000 Livery](#bombardier-crj-1000-livery)
 1. [Airbus A330-900 Livery](#airbus-a330-300-livery)
 1. [F2H Banshee Livery](#f2h-banshee-pakistan-air-force-paf-livery)
@@ -28,6 +29,10 @@
 1. [Boeing B787-10 Livery](#boeing-b787-10-livery)
 1. [Pakistan International Airlines (PIA) Announcements](#pakistan-international-airlines-pia-announcements)
 1. [Airbus A330-300 Livery](#airbus-a330-300-livery)
+
+### Sim Skunk Works TF104G Starfighter Livery
+- لنک | Link: https://flightsim.to/file/23890/f-104-paf-livery
+- تصاویر | Screenshots: https://github.com/kolachistudios/msfs-addons/tree/main/images/TF104G
 
 ### Bombardier CRJ-1000 Livery
 - لنک | Link: https://flightsim.to/file/23502/crj-1000-pia-livery
