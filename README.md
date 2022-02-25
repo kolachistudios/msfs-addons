@@ -2,7 +2,7 @@
 # Add-ons for Microsoft Flight Simulator 2020
 ### pkstn.co/msfs
 
-![MSFS Add-ons](https://github.com/kolachistudios/msfs-addons/blob/main/images/Kolachi.png?raw=true)
+![MSFS Add-ons](https://github.com/kolachistudios/msfs-addons/blob/main/images/Manual-Cover-220202.png?raw=true)
 
 1. [Sim Skunk Works TF104G Starfighter Livery](#sim-skunk-works-tf104g-starfighter-livery)
 1. [Bombardier CRJ-1000 Livery](#bombardier-crj-1000-livery)
