@@ -1,6 +1,7 @@
 # مائیکروسافٹ فلائٹ سمیولیٹر ٢٠٢٠ کے اضافہجات
 # Add-ons for Microsoft Flight Simulator 2020
 ### pkstn.co/msfs
+### flightsim.to/profile/adnan_hashmi
 
 ![MSFS Add-ons](https://github.com/kolachistudios/msfs-addons/blob/main/images/Manual-Cover-220202.png?raw=true)
 
